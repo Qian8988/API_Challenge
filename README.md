@@ -23,7 +23,7 @@ Add the data to a new DataFrame.
 <img width="520" alt="1" src="https://user-images.githubusercontent.com/86527347/129509423-5e25ace4-b4a1-4ebc-8231-c8ae8b0e542c.png">
 
 Export the DataFrame as a CSV file, and save it as WeatherPy_Database.csv in the Weather_Database folder.
-(Weather_Database/WeatherPy_Database.csv)
+[Contribution guidelines for this project](Weather_Database/WeatherPy_Database.csv)
 
 
 
