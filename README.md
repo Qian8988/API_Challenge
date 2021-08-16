@@ -32,8 +32,6 @@ Use input statements to retrieve customer weather preferences, then use those pr
 
 <img width="474" alt="2" src="https://user-images.githubusercontent.com/86527347/129509425-2ae72a1d-e826-455d-8022-16e2cd1be681.png">
 
-<img width="495" alt="4" src="https://user-images.githubusercontent.com/86527347/129509427-5e223443-f6fc-4228-a13a-98bcdd7ca352.png">
-
 <img width="510" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/86527347/129510706-ee3b737e-1b3e-4544-b1a4-ad292af527a7.png">
 
 
