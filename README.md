@@ -32,6 +32,10 @@ Use input statements to retrieve customer weather preferences, then use those pr
 
 <img width="474" alt="2" src="https://user-images.githubusercontent.com/86527347/129509425-2ae72a1d-e826-455d-8022-16e2cd1be681.png">
 
+The DataFrame is exported as a CSV file into the Vacation_Search folder and is saved as WeatherPy_vacation.csv
+[WeatherPy_vacation.csv](Vacation_Search/WeatherPy_vacation.csv)
+
+
 <img width="510" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/86527347/129510706-ee3b737e-1b3e-4544-b1a4-ad292af527a7.png">
 
 
@@ -44,5 +48,4 @@ Use the Google Directions API to create a travel itinerary that shows the route 
 
 <img width="494" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/86527347/129509429-23a50665-b607-4a5c-b1dc-aa4d003152b7.png">
 
-<img width="481" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/86527347/129509431-6e72b0f8-2d77-4b76-8c2f-542461566328.png">
 
