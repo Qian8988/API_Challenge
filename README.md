@@ -25,8 +25,6 @@ Add the data to a new DataFrame.
 Export the DataFrame as a CSV file, and save it as WeatherPy_Database.csv in the Weather_Database folder.
 [WeatherPy_Database.csv](Weather_Database/WeatherPy_Database.csv)
 
-
-
 ---
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
@@ -36,9 +34,7 @@ Use input statements to retrieve customer weather preferences, then use those pr
 
 <img width="495" alt="4" src="https://user-images.githubusercontent.com/86527347/129509427-5e223443-f6fc-4228-a13a-98bcdd7ca352.png">
 
-
 ---
-
 
 ### Deliverable 3: Create a Travel Itinerary Map
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
