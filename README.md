@@ -27,12 +27,16 @@ Export the DataFrame as a CSV file, and save it as WeatherPy_Database.csv in the
 
 
 
+
+
 ### Deliverable 2: Create a Customer Travel Destinations Map
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
 <img width="474" alt="2" src="https://user-images.githubusercontent.com/86527347/129509425-2ae72a1d-e826-455d-8022-16e2cd1be681.png">
 
 <img width="495" alt="4" src="https://user-images.githubusercontent.com/86527347/129509427-5e223443-f6fc-4228-a13a-98bcdd7ca352.png">
+
+
 
 
 
